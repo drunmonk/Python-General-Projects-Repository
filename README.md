@@ -25,6 +25,7 @@ The projects in this repository are organized into different categories, making 
 - Machine Learning: Projects implementing various machine learning algorithms and techniques.
 - Automation: Projects automating repetitive tasks with Python scripts.
 - Games: Simple text-based or graphical games using Python's standard libraries.
+- Algorithms and Data Structures: Implementations of various algorithms and data structures.
 - Miscellaneous: Projects that don't fit into the above categories but are still interesting and valuable.
 
 

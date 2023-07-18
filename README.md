@@ -56,7 +56,7 @@ I welcome contributions from developers of all levels. If you have a project tha
 
 ## Acknowledgements
 
-I would like to express our gratitude to all the contributors who have made this repository a diverse and valuable resource for developers worldwide.
+I would like to express my gratitude to all the contributors who will make this repository a diverse and valuable resource for developers worldwide.
 
 If you have any questions, suggestions, or issues related to this repository, feel free to contact us or open an issue.
 

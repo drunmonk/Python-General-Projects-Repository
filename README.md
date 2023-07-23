@@ -22,7 +22,6 @@ The projects in this repository are organized into different categories, making 
 - Data Manipulation: Projects involving data processing, parsing, and analysis using Python libraries like Pandas.
 - Web Scraping: Projects to extract data from websites using libraries like Beautiful Soup and Requests.
 - GUI Applications: Projects that create graphical user interfaces using libraries like Tkinter or PyQt.
-- Machine Learning: Projects implementing various machine learning algorithms and techniques.
 - Automation: Projects automating repetitive tasks with Python scripts.
 - Games: Simple text-based or graphical games using Python's standard libraries.
 - Algorithms and Data Structures: Implementations of various algorithms and data structures.
